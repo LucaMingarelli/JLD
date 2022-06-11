@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-11T16:53:09.944186Z",
+      "created": "2022-06-11T20:18:19.306913Z",
       "format": null,
-      "last_modified": "2022-06-11T16:52:01.206646Z",
+      "last_modified": "2022-06-11T20:17:01.965864Z",
       "mimetype": "application/pdf",
       "name": "ECB Python Lectures - Lecture 2.1 slides.pdf",
       "path": "A_Python_Course/L2/L2.1/ECB Python Lectures - Lecture 2.1 slides.pdf",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T16:53:09.948186Z",
+      "created": "2022-06-11T20:18:19.310913Z",
       "format": null,
-      "last_modified": "2022-06-11T16:53:09.948186Z",
+      "last_modified": "2022-06-11T20:18:19.310913Z",
       "mimetype": null,
       "name": "img",
       "path": "A_Python_Course/L2/L2.1/img",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-11T16:53:09.944186Z",
+      "created": "2022-06-11T20:18:19.306913Z",
       "format": null,
-      "last_modified": "2022-06-11T16:52:01.206646Z",
+      "last_modified": "2022-06-11T20:17:01.965864Z",
       "mimetype": null,
       "name": "ECB Python Lectures - Lecture 2.1.ipynb",
       "path": "A_Python_Course/L2/L2.1/ECB Python Lectures - Lecture 2.1.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-11T16:53:09.948186Z",
+  "created": "2022-06-11T20:18:19.310913Z",
   "format": "json",
-  "last_modified": "2022-06-11T16:53:09.948186Z",
+  "last_modified": "2022-06-11T20:18:19.310913Z",
   "mimetype": null,
   "name": "L2.1",
   "path": "A_Python_Course/L2/L2.1",
