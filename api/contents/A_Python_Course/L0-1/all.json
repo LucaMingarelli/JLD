@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T00:45:23.607611Z",
+      "created": "2022-06-12T01:16:41.252206Z",
       "format": null,
-      "last_modified": "2022-06-12T00:43:52.714823Z",
+      "last_modified": "2022-06-12T01:15:23.783984Z",
       "mimetype": "application/pdf",
       "name": "ECB Python Lectures - Lecture 0 and 1 slides.pdf",
       "path": "A_Python_Course/L0-1/ECB Python Lectures - Lecture 0 and 1 slides.pdf",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T00:45:23.611611Z",
+      "created": "2022-06-12T01:16:41.256206Z",
       "format": null,
-      "last_modified": "2022-06-12T00:43:52.718823Z",
+      "last_modified": "2022-06-12T01:15:23.783984Z",
       "mimetype": null,
       "name": "ECB Python Lectures - Lecture 0 and 1.ipynb",
       "path": "A_Python_Course/L0-1/ECB Python Lectures - Lecture 0 and 1.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T00:45:23.611611Z",
+      "created": "2022-06-12T01:16:41.256206Z",
       "format": null,
-      "last_modified": "2022-06-12T00:43:52.718823Z",
+      "last_modified": "2022-06-12T01:15:23.783984Z",
       "mimetype": null,
       "name": "Lecture1.ipynb",
       "path": "A_Python_Course/L0-1/Lecture1.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T00:45:23.615612Z",
+      "created": "2022-06-12T01:16:41.260206Z",
       "format": null,
-      "last_modified": "2022-06-12T00:45:23.615612Z",
+      "last_modified": "2022-06-12T01:16:41.260206Z",
       "mimetype": null,
       "name": "img",
       "path": "A_Python_Course/L0-1/img",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T00:45:23.611611Z",
+  "created": "2022-06-12T01:16:41.256206Z",
   "format": "json",
-  "last_modified": "2022-06-12T00:45:23.611611Z",
+  "last_modified": "2022-06-12T01:16:41.256206Z",
   "mimetype": null,
   "name": "L0-1",
   "path": "A_Python_Course/L0-1",

@@ -106,7 +106,7 @@
       "type": "string",
       "title": "Selected Theme",
       "description": "Application-level visual styling theme",
-      "default": "Darcula"
+      "default": "JupyterLab Light"
     },
     "theme-scrollbars": {
       "type": "boolean",
