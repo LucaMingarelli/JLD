@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T18:25:21.235420Z",
+      "created": "2022-06-12T19:25:13.368808Z",
       "format": null,
-      "last_modified": "2022-06-12T18:23:39.480899Z",
+      "last_modified": "2022-06-12T19:23:57.027375Z",
       "mimetype": "video/mp4",
       "name": "Vulcano.mp4",
       "path": "A_Python_Course/L2/img/Vulcano.mp4",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T18:25:21.259420Z",
+      "created": "2022-06-12T19:25:13.396808Z",
       "format": null,
-      "last_modified": "2022-06-12T18:23:39.480899Z",
+      "last_modified": "2022-06-12T19:23:57.031375Z",
       "mimetype": "image/png",
       "name": "my_plot.png",
       "path": "A_Python_Course/L2/img/my_plot.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T18:25:21.195419Z",
+      "created": "2022-06-12T19:25:13.328807Z",
       "format": null,
-      "last_modified": "2022-06-12T18:23:39.460898Z",
+      "last_modified": "2022-06-12T19:23:57.011375Z",
       "mimetype": "image/gif",
       "name": "Vulcano.gif",
       "path": "A_Python_Course/L2/img/Vulcano.gif",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T18:25:21.259420Z",
+      "created": "2022-06-12T19:25:13.396808Z",
       "format": null,
-      "last_modified": "2022-06-12T18:23:39.480899Z",
+      "last_modified": "2022-06-12T19:23:57.027375Z",
       "mimetype": "image/png",
       "name": "broadcasting.png",
       "path": "A_Python_Course/L2/img/broadcasting.png",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T18:25:21.259420Z",
+  "created": "2022-06-12T19:25:13.396808Z",
   "format": "json",
-  "last_modified": "2022-06-12T18:25:21.259420Z",
+  "last_modified": "2022-06-12T19:25:13.396808Z",
   "mimetype": null,
   "name": "img",
   "path": "A_Python_Course/L2/img",
