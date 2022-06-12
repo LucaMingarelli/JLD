@@ -56,7 +56,7 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": false,
+        "liteExtension": true,
         "load": "static/remoteEntry.bf6b3192a558615425cd.js",
         "name": "@telamonian/theme-darcula"
       },
