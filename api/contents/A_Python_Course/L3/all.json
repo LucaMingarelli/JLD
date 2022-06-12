@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T00:12:41.675495Z",
+      "created": "2022-06-12T00:13:10.304268Z",
       "format": null,
-      "last_modified": "2022-06-12T00:10:59.814105Z",
+      "last_modified": "2022-06-12T00:11:30.138360Z",
       "mimetype": "text/html",
       "name": "ECB Python Lectures - Lecture 3.slides.html",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3.slides.html",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T00:12:41.675495Z",
+      "created": "2022-06-12T00:13:10.300268Z",
       "format": null,
-      "last_modified": "2022-06-12T00:10:59.810105Z",
+      "last_modified": "2022-06-12T00:11:30.134360Z",
       "mimetype": "application/pdf",
       "name": "ECB Python Lectures - Lecture 3 slides.pdf",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3 slides.pdf",
@@ -26,21 +26,21 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T00:12:41.679495Z",
+      "created": "2022-06-12T00:13:10.304268Z",
       "format": null,
-      "last_modified": "2022-06-12T00:10:59.814105Z",
+      "last_modified": "2022-06-12T00:11:30.138360Z",
       "mimetype": null,
       "name": "Lecture3.ipynb",
       "path": "A_Python_Course/L3/Lecture3.ipynb",
-      "size": 54245,
+      "size": 53608,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-06-12T00:12:41.675495Z",
+      "created": "2022-06-12T00:13:10.304268Z",
       "format": null,
-      "last_modified": "2022-06-12T00:10:59.810105Z",
+      "last_modified": "2022-06-12T00:11:30.134360Z",
       "mimetype": null,
       "name": "ECB Python Lectures - Lecture 3.ipynb",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3.ipynb",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T00:12:41.679495Z",
+  "created": "2022-06-12T00:13:10.304268Z",
   "format": "json",
-  "last_modified": "2022-06-12T00:12:41.679495Z",
+  "last_modified": "2022-06-12T00:13:10.304268Z",
   "mimetype": null,
   "name": "L3",
   "path": "A_Python_Course/L3",
