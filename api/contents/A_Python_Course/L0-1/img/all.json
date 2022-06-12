@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T21:01:06.345889Z",
+      "created": "2022-06-12T21:39:03.699253Z",
       "format": null,
-      "last_modified": "2022-06-12T20:59:50.238262Z",
+      "last_modified": "2022-06-12T21:37:48.314642Z",
       "mimetype": "image/jpeg",
       "name": "pascal.jpeg",
       "path": "A_Python_Course/L0-1/img/pascal.jpeg",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T21:01:06.345889Z",
+      "created": "2022-06-12T21:39:03.699253Z",
       "format": null,
-      "last_modified": "2022-06-12T20:59:50.238262Z",
+      "last_modified": "2022-06-12T21:37:48.314642Z",
       "mimetype": "image/png",
       "name": "plot_size_int.png",
       "path": "A_Python_Course/L0-1/img/plot_size_int.png",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T21:01:06.345889Z",
+      "created": "2022-06-12T21:39:03.695253Z",
       "format": null,
-      "last_modified": "2022-06-12T20:59:50.234262Z",
+      "last_modified": "2022-06-12T21:37:48.314642Z",
       "mimetype": "image/png",
       "name": "ECB_logo.png",
       "path": "A_Python_Course/L0-1/img/ECB_logo.png",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T21:01:06.349889Z",
+      "created": "2022-06-12T21:39:03.699253Z",
       "format": null,
-      "last_modified": "2022-06-12T20:59:50.238262Z",
+      "last_modified": "2022-06-12T21:37:48.314642Z",
       "mimetype": "image/png",
       "name": "python_vs_rest.png",
       "path": "A_Python_Course/L0-1/img/python_vs_rest.png",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T21:01:06.345889Z",
+      "created": "2022-06-12T21:39:03.695253Z",
       "format": null,
-      "last_modified": "2022-06-12T20:59:50.234262Z",
+      "last_modified": "2022-06-12T21:37:48.314642Z",
       "mimetype": "image/png",
       "name": "pandas_vs_matlab.png",
       "path": "A_Python_Course/L0-1/img/pandas_vs_matlab.png",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T21:01:06.349889Z",
+  "created": "2022-06-12T21:39:03.699253Z",
   "format": "json",
-  "last_modified": "2022-06-12T21:01:06.349889Z",
+  "last_modified": "2022-06-12T21:39:03.699253Z",
   "mimetype": null,
   "name": "img",
   "path": "A_Python_Course/L0-1/img",
