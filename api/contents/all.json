@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.384207Z",
+      "created": "2022-06-12T01:26:05.459054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:16:41.384207Z",
+      "last_modified": "2022-06-12T01:26:05.459054Z",
       "mimetype": null,
       "name": "A_Python_Course",
       "path": "A_Python_Course",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.388206Z",
+      "created": "2022-06-12T01:26:05.463054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:16:39.968204Z",
+      "last_modified": "2022-06-12T01:26:03.987056Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -25,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T01:16:41.388206Z",
+  "created": "2022-06-12T01:26:05.463054Z",
   "format": "json",
-  "last_modified": "2022-06-12T01:16:41.388206Z",
+  "last_modified": "2022-06-12T01:26:05.463054Z",
   "mimetype": null,
   "name": "",
   "path": "",

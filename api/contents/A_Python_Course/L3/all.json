@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.388206Z",
+      "created": "2022-06-12T01:26:05.459054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:15:23.959985Z",
+      "last_modified": "2022-06-12T01:24:52.479001Z",
       "mimetype": "text/html",
       "name": "ECB Python Lectures - Lecture 3.slides.html",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3.slides.html",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.384207Z",
+      "created": "2022-06-12T01:26:05.459054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:15:23.959985Z",
+      "last_modified": "2022-06-12T01:24:52.475001Z",
       "mimetype": "application/pdf",
       "name": "ECB Python Lectures - Lecture 3 slides.pdf",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3 slides.pdf",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.388206Z",
+      "created": "2022-06-12T01:26:05.463054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:15:23.959985Z",
+      "last_modified": "2022-06-12T01:24:52.479001Z",
       "mimetype": null,
       "name": "Lecture3.ipynb",
       "path": "A_Python_Course/L3/Lecture3.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-06-12T01:16:41.388206Z",
+      "created": "2022-06-12T01:26:05.459054Z",
       "format": null,
-      "last_modified": "2022-06-12T01:15:23.959985Z",
+      "last_modified": "2022-06-12T01:24:52.475001Z",
       "mimetype": null,
       "name": "ECB Python Lectures - Lecture 3.ipynb",
       "path": "A_Python_Course/L3/ECB Python Lectures - Lecture 3.ipynb",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-06-12T01:16:41.388206Z",
+  "created": "2022-06-12T01:26:05.463054Z",
   "format": "json",
-  "last_modified": "2022-06-12T01:16:41.388206Z",
+  "last_modified": "2022-06-12T01:26:05.463054Z",
   "mimetype": null,
   "name": "L3",
   "path": "A_Python_Course/L3",

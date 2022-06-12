@@ -1,4 +1,7 @@
 {
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "Darcula"
+  },
   "jupyter-config-data": {
     "disabledExtensions": [
       "@jupyterlab/drawio-extension",
